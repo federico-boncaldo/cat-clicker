@@ -1,0 +1,9 @@
+.images,
+.cat-name,
+.click {
+	display: none;
+}
+
+img {
+	margin: 10px 0;
+}
